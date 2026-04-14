@@ -1,0 +1,101 @@
+id,title,genre,release_year,revenue,vote_average,production_country,profit,revenue_category
+1,Movie Title 1,"Science Fiction, Comedy, Horror",1957,130692839.83,4.5,Germany,93720118.83,Blockbuster
+2,Movie Title 2,"Documentary, Romance",1999,294797495.86,5.8,China,198438176.86,Blockbuster
+3,Movie Title 3,"Science Fiction, Action",1941,104840893.74,2.71,Japan,-30331848.26,Blockbuster
+4,Movie Title 4,"Comedy, Drama, Adventure",1961,153558492.61,5.63,Germany,24509113.61,Blockbuster
+5,Movie Title 5,"Comedy, Romance",1969,100829065.76,4.25,Japan,-50561335.24,Blockbuster
+6,Movie Title 6,Adventure,2020,572492297.28,1.17,India,402579985.28,Blockbuster
+7,Movie Title 7,Documentary,1962,230941909.3,3.58,India,183828294.3,Blockbuster
+8,Movie Title 8,"Comedy, Romance",1960,86014940.51,8.11,India,43170412.51,Hit
+9,Movie Title 9,"Horror, Science Fiction, Documentary",2007,49458803.4,5.89,United Kingdom,-47105658.6,Average
+10,Movie Title 10,"Drama, Documentary",1992,63537652.76,6.63,China,48766559.76,Hit
+11,Movie Title 11,"Action, Adventure, Horror",2022,162986494.72,7.81,India,54929614.72,Blockbuster
+12,Movie Title 12,"Drama, Romance, Action",2012,358235086.13,9.09,China,286275417.13,Blockbuster
+13,Movie Title 13,Action,1964,487336686.56,7.26,China,385561561.56,Blockbuster
+14,Movie Title 14,Comedy,1980,308839133.69,7.31,France,236373498.69,Blockbuster
+15,Movie Title 15,"Comedy, Horror, Documentary",1950,629206497.43,2.54,Canada,484547327.43,Blockbuster
+16,Movie Title 16,"Drama, Comedy",2010,32455474.25,8.6,United States of America,24315018.25,Average
+17,Movie Title 17,"Drama, Horror",1981,552472681.66,5.47,Germany,310995776.66,Blockbuster
+18,Movie Title 18,Drama,1986,19465050.96,6.7,United States of America,11951147.96,Average
+19,Movie Title 19,"Science Fiction, Horror, Adventure",2019,123216456.2,4.17,Japan,95991562.2,Blockbuster
+20,Movie Title 20,Science Fiction,1969,7007216.93,6.54,France,4946196.93,Flop
+21,Movie Title 21,"Action, Adventure",1983,124554042.87,3.66,United States of America,79242310.87,Blockbuster
+22,Movie Title 22,"Science Fiction, Comedy",1986,60243288.8,8.16,Canada,-55802597.2,Hit
+23,Movie Title 23,"Horror, Drama",1990,464470216.6,8.21,Canada,348560148.6,Blockbuster
+24,Movie Title 24,"Romance, Science Fiction, Documentary",1952,52833895.99,3.31,Canada,29401619.99,Hit
+25,Movie Title 25,"Horror, Science Fiction, Comedy",1941,53492597.35,9.48,United Kingdom,2273888.35,Hit
+26,Movie Title 26,Action,2016,438690818.23,8.09,Japan,249612406.23,Blockbuster
+27,Movie Title 27,Drama,1972,390397189.83,6.46,United Kingdom,186421717.83,Blockbuster
+28,Movie Title 28,"Horror, Drama, Comedy",1985,399274836.43,5.14,Canada,210395708.43,Blockbuster
+29,Movie Title 29,Adventure,1954,303172098.68,4.39,United States of America,209113988.68,Blockbuster
+30,Movie Title 30,Horror,2011,266653487.86,9.96,United States of America,180956075.86,Blockbuster
+31,Movie Title 31,Science Fiction,1993,32142764.7,2.78,India,-11299410.3,Average
+32,Movie Title 32,Adventure,1983,133289000.67,3.24,France,83662336.67,Blockbuster
+33,Movie Title 33,"Action, Comedy, Documentary",1960,4869291.76,2.44,Canada,3287645.76,Flop
+34,Movie Title 34,"Romance, Documentary, Action",1970,49476585.01,5.44,Canada,-14877158.99,Average
+35,Movie Title 35,"Comedy, Drama, Science Fiction",1999,970911102.14,2.51,United Kingdom,769455198.14,Blockbuster
+36,Movie Title 36,"Documentary, Action",1988,87395014.97,2.88,Canada,35915650.97,Hit
+37,Movie Title 37,Adventure,1981,186449167.03,3.09,France,34244248.03,Blockbuster
+38,Movie Title 38,"Adventure, Drama",1958,852032772.47,5.49,France,640924946.47,Blockbuster
+39,Movie Title 39,Action,1944,217896798.77,1.39,Germany,168584164.77,Blockbuster
+40,Movie Title 40,"Horror, Science Fiction",1988,520791520.56,3.49,China,365879555.56,Blockbuster
+41,Movie Title 41,"Adventure, Science Fiction",1977,355007718.79,2.04,France,281125935.79,Blockbuster
+42,Movie Title 42,"Romance, Comedy",1964,234640050.28,5.05,China,152148117.28,Blockbuster
+43,Movie Title 43,"Action, Adventure",1975,46987510.55,1.84,United States of America,26235471.55,Average
+44,Movie Title 44,Adventure,2023,769075786.47,2.57,Canada,596380595.47,Blockbuster
+45,Movie Title 45,"Romance, Adventure",1989,625949128.41,9.44,China,473372033.41,Blockbuster
+46,Movie Title 46,"Adventure, Science Fiction",1984,5417705.54,9.37,United Kingdom,3211081.54,Flop
+47,Movie Title 47,"Drama, Science Fiction, Horror",1972,139144608.79,6.87,Germany,110903893.79,Blockbuster
+48,Movie Title 48,Documentary,2024,717008186.96,4.99,India,545330288.96,Blockbuster
+49,Movie Title 49,"Science Fiction, Adventure",1940,241591478.93,1.92,Japan,165263337.93,Blockbuster
+50,Movie Title 50,"Horror, Science Fiction, Documentary",2005,276962971.45,4.7,United Kingdom,136425453.45,Blockbuster
+51,Movie Title 51,"Comedy, Adventure",1949,6392624.95,2.97,United Kingdom,4568962.95,Flop
+52,Movie Title 52,"Adventure, Science Fiction, Action",1952,307510726.27,4.51,France,64265614.27,Blockbuster
+53,Movie Title 53,"Science Fiction, Horror",1964,757978780.92,1.38,India,555605982.92,Blockbuster
+54,Movie Title 54,Adventure,1992,693305281.94,8.6,Germany,521236246.94,Blockbuster
+55,Movie Title 55,"Comedy, Action, Drama",1984,708536856.79,8.57,Canada,503576508.79,Blockbuster
+56,Movie Title 56,"Science Fiction, Comedy, Romance",1979,667150725.37,1.08,India,482599463.37,Blockbuster
+57,Movie Title 57,Romance,1993,728123249.12,1.55,United States of America,510560328.12,Blockbuster
+58,Movie Title 58,Comedy,1977,124945786.26,9.54,China,35155001.26,Blockbuster
+59,Movie Title 59,"Action, Documentary, Comedy",1975,76514440.75,9.8,United Kingdom,60519253.75,Hit
+60,Movie Title 60,"Documentary, Science Fiction",2007,768509099.92,7.37,Germany,541154511.92,Blockbuster
+61,Movie Title 61,"Romance, Science Fiction",1942,295097052.11,1.83,United States of America,191029813.11,Blockbuster
+62,Movie Title 62,"Action, Adventure, Science Fiction",2022,189531986.02,8.96,Japan,88939215.02,Blockbuster
+63,Movie Title 63,"Romance, Action",2008,155813150.23,3.44,India,22189976.23,Blockbuster
+64,Movie Title 64,Horror,1995,164449797.76,9.73,Germany,58485793.76,Blockbuster
+65,Movie Title 65,Drama,2013,426453363.51,8.92,France,212659708.51,Blockbuster
+66,Movie Title 66,"Drama, Comedy",1988,558312520.89,2.87,Canada,333133283.89,Blockbuster
+67,Movie Title 67,Horror,1976,401882368.57,7.9,China,310687877.57,Blockbuster
+68,Movie Title 68,Comedy,1943,294647941.48,8.41,United Kingdom,214404030.48,Blockbuster
+69,Movie Title 69,Adventure,1994,44849419.93,6.56,Canada,34407153.93,Average
+70,Movie Title 70,"Romance, Adventure",1974,62978952.2,1.68,United Kingdom,41898440.2,Hit
+71,Movie Title 71,"Drama, Documentary, Comedy",2012,355647314.67,1.09,France,167774595.67,Blockbuster
+72,Movie Title 72,Horror,1970,964557783.07,2.39,Canada,739650371.07,Blockbuster
+73,Movie Title 73,"Romance, Drama, Action",1963,614873519.3,3.83,Japan,468854053.3,Blockbuster
+74,Movie Title 74,"Documentary, Romance",1957,510262171.97,6.95,Germany,307647068.97,Blockbuster
+75,Movie Title 75,"Action, Romance",1963,131618508.25,5.35,India,-113674539.75,Blockbuster
+76,Movie Title 76,Adventure,1961,75308632.53,7.32,India,46225280.53,Hit
+77,Movie Title 77,"Adventure, Action, Drama",1952,223540920.3,1.61,United Kingdom,114701140.3,Blockbuster
+78,Movie Title 78,"Drama, Action",1948,511133946.94,5.11,India,327752173.94,Blockbuster
+79,Movie Title 79,"Documentary, Action, Adventure",2008,145416408.01,2.74,France,55351950.01,Blockbuster
+80,Movie Title 80,"Romance, Horror, Adventure",1977,87317362.2,8.7,India,-79457510.8,Hit
+81,Movie Title 81,"Adventure, Drama, Horror",1971,562098117.76,5.41,China,422463506.76,Blockbuster
+82,Movie Title 82,"Drama, Horror, Science Fiction",1953,857760560.15,9.59,China,663473377.15,Blockbuster
+83,Movie Title 83,"Adventure, Science Fiction",2016,432389378.53,4.94,France,278431125.53,Blockbuster
+84,Movie Title 84,Horror,1958,429295273.56,4.07,United Kingdom,232860861.56,Blockbuster
+85,Movie Title 85,"Horror, Documentary",2007,65267533.54,4.87,Canada,38811819.54,Hit
+86,Movie Title 86,"Action, Documentary",1990,39774059.1,4.56,Canada,31188418.1,Average
+87,Movie Title 87,"Drama, Action",2015,100173113.12,5.86,Japan,-78578319.88,Blockbuster
+88,Movie Title 88,"Drama, Romance",1983,833610237.54,9.57,India,633106673.54,Blockbuster
+89,Movie Title 89,"Romance, Documentary",1942,144882767.98,2.91,France,-37226323.02,Blockbuster
+90,Movie Title 90,"Romance, Comedy, Documentary",2010,616758956.98,5.0,Canada,382566417.98,Blockbuster
+91,Movie Title 91,"Documentary, Science Fiction, Comedy",2017,36562077.1,8.74,France,25204259.1,Average
+92,Movie Title 92,"Action, Romance, Documentary",1983,218102305.22,7.02,China,28495591.22,Blockbuster
+93,Movie Title 93,"Action, Comedy, Romance",1946,724150488.05,8.29,China,525614955.05,Blockbuster
+94,Movie Title 94,Documentary,2008,654800142.23,9.5,Japan,446051647.23,Blockbuster
+95,Movie Title 95,"Science Fiction, Action",1951,193828741.02,9.51,United States of America,75062364.02,Blockbuster
+96,Movie Title 96,"Adventure, Romance, Action",1963,418773881.82,5.18,United States of America,264478850.82,Blockbuster
+97,Movie Title 97,Romance,1954,468529903.14,1.55,France,238729660.14,Blockbuster
+98,Movie Title 98,"Romance, Documentary, Horror",1994,1105000101.31,1.72,United States of America,865653059.31,Blockbuster
+99,Movie Title 99,"Comedy, Drama",2022,806642755.98,1.49,Japan,633768151.98,Blockbuster
+100,Movie Title 100,"Science Fiction, Drama",2000,4004653.7,7.69,United Kingdom,112305.7,Flop
