@@ -46,7 +46,7 @@ Revenue categorization (Blockbuster, Hit, Average)
 Movie age calculation
 Performed joins, aggregations, and window functions
 
-###🔹 Data Validation
+### 🔹 Data Validation
 
 Performed null checks across all columns
 Identified invalid data (e.g., negative revenue)
