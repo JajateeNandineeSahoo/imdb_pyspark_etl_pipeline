@@ -4,7 +4,7 @@
 This project demonstrates an end-to-end data engineering pipeline built using PySpark to process IMDb movie data. It covers data ingestion, cleansing, transformation, and analytics, followed by visualization through an interactive Power BI dashboard.
 
 ## 🧱 Architecture
-
+```text
 Raw CSV Data
      ↓
 Data Ingestion (PySpark)
@@ -16,6 +16,7 @@ Business Logic & Aggregations (Gold Layer)
 SQL Analytics
      ↓
 Power BI Dashboard
+```
 
 ## 🛠️ Tech Stack
 PySpark (Data Processing)
@@ -26,18 +27,18 @@ Git & GitHub (Version Control)
 
 ## ⚙️ Key Features
 
-###🔹 Data Ingestion
+### 🔹 Data Ingestion
 
 Loaded raw IMDb dataset into PySpark DataFrames with schema inference
 
-###🔹 Data Cleaning & Preprocessing
+### 🔹 Data Cleaning & Preprocessing
 
 Handled missing values using fillna
 Removed duplicate records
 Applied type casting and date standardization
 Derived new columns such as profit
 
-###🔹 Data Transformation
+### 🔹 Data Transformation
 
 Implemented business logic:
 
@@ -50,12 +51,12 @@ Performed joins, aggregations, and window functions
 Performed null checks across all columns
 Identified invalid data (e.g., negative revenue)
 
-###🔹 Performance Optimization
+### 🔹 Performance Optimization
 
 Applied partitioning and caching techniques
 Reduced shuffle operations, improving runtime by ~30%
 
-###🔹 SQL Analytics
+### 🔹 SQL Analytics
 
 Developed business queries such as:
 
@@ -75,7 +76,7 @@ The project includes an interactive dashboard built using Power BI to visualize:
 📊 Revenue category insights
 
 ## 📁 Project Structure
-
+```text
 imdb-pyspark-etl-pipeline/
 │
 ├── notebooks/
@@ -93,6 +94,7 @@ imdb-pyspark-etl-pipeline/
 │   └── final_clean_movies.csv
 │
 ├── README.md
+```
 
 ## 📈 Key Learnings
 
